@@ -3,4 +3,4 @@
 
 # Attendance
 Yizhang Miao
-Weizhe Guo
+Weizhe Guo (weizheg2)
