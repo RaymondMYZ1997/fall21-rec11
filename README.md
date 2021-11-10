@@ -3,3 +3,4 @@
 
 # Attendance
 Yizhang Miao
+Weizhe Guo
